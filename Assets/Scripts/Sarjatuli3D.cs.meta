@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6d6bfbca5faf1294f9fc4db81166d3f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ammusPrefab: {fileID: 407941004627712702, guid: 5f4eb8f06a916b542bd1eb200384983a, type: 3}
+  - ampumispiste: {fileID: 3788975287506645017, guid: f46de30e20cedca46934dd20f34d60b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
